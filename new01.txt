@@ -1,1 +1,2 @@
 Local commit 01
+Edit the new01.txt file
